@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.wrapper {
+    min-height: 100%;
+}
+/* ---------HEADER----------- */
+.header {
+    margin-bottom: 20px;
+    background: #333;
+    padding: 20px;
+    text-align: center;
+}
+.logo {
+    margin-bottom: 20px;
+}
+.logo a {
+    color: #fff;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.menu {
+    background: #000;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+.link {
+    color: #fff;
+    font-size: 14px;
+}
+.list li:not(:last-child) {
+    margin-bottom: 10px;
+}
+li:hover  {
+    text-decoration: underline;
+}
+/* ---------PAGE----------- */
+.page  {
+    
+}
+.title {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+p {
+    text-align:left;
+    line-height: 161%;
+}
+.image {
+    text-decoration:none;
+    color: #000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.image h2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.image-block {
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.image-block img {
+    height: 300px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+/* ---------FOOTER----------- */
+.footer {
+    text-align: center;
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    font-size: 12px;
+}
+
+/* ---------COMMENT---------- */
+
+.item__number {
+}
+.item__stars {
+}
+.item__commet {
+}
+.page {
+    text-align: center;
+}
+.footer {
+    margin: 0 auto;
+}
+.section1 {
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+p {
+    margin: o auto;
+    padding: 15spx;
+}
+img {
+    height: 300px;
+    padding: 20px;
+}
+.footer {
+    margin: 0 auto;
+    font-size: 10px;
+}
+ul li {
+    padding: 10px;
+}
+h1 {
+    padding: 20px;
+}
